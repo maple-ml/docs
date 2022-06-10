@@ -30,7 +30,7 @@ source_suffix = ".rst"
 master_doc = "index"
 
 project = "maple"
-copyright = "2019-2020, Maple-ML team"
+copyright = "2019-2020, maple-ml team"
 
 language = "en"
 
